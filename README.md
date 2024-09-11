@@ -1,4 +1,21 @@
-## Hi there 👋
+# About Me
+
+## Languages I'm most proficient with 💪
+### > C#
+### > Python
+### > Java
+### > SQL
+### > HTML5 / CSS
+
+## I'm currently working with 🤓
+### > JS / TS (React)
+
+## Developer tools I use 🛠
+### > Git
+### > JIRA
+### > JSON
+
+
 
 <!--
 **mike-coding/mike-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
