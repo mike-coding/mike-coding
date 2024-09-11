@@ -1,14 +1,3 @@
 ## Hi, I'm Mike!
-
-#### 💪 Languages that I'm proficient with 
-<code> C#, Python, Java, SQL, HTML5 / CSS </code>
-
-#### 🤓 I'm currently working with 
-<code> JS, TS, React JSX </code>
-
-#### 🛠 Developer tools I use 
-<code> Git, JIRA, JSON </code>
-
-#### 🎮 Check out my game! 
-[itch.io/bitbeastarena](https://saucelayer.itch.io/bitbeastarena)
-
+| <br>💪 Languages I'm proficient with:<br><code>C#</code> <code>Python</code> <code>Java</code> <code>SQL</code> <code>HTML5\|CSS</code><br><hr>🤓 I'm currently working with:<br><code>JS</code> <code>TS</code> <code>React\|JSX</code><br><hr>🛠 Developer tools I use:<br><code>Git</code> <code>JIRA</code> <code>JSON</code><br> <br>  | 🎮 Try out [my game](https://saucelayer.itch.io/bitbeastarena) on itch.io!<br><img src = "https://img.itch.zone/aW1hZ2UvMjYzOTk3NS8xNzczOTA0My5naWY=/250x600/Sf15E9.gif" width="400" > |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
